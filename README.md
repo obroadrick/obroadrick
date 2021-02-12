@@ -1,4 +1,4 @@
-I'm an undergrad studying math and computer science at George Washington University. I also row, tutor, and do research.
+I'm an undergrad studying math and computer science at George Washington University. I also do election security research, row, and tutor.
 
 Website: [oliverbroadrick.com](http://oliverbroadrick.com)
 
